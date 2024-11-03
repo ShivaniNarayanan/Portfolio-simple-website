@@ -20,6 +20,4 @@ This simple, static portfolio website is designed to showcase my skills, project
 - **HTML**: For structuring the website content.
 - **CSS**: For styling and layout, creating a polished look with basic CSS.
 
-## License
-
-This project is open-source and available under the MIT License.
+Thanks for visiting my portfolio website!!
